@@ -1,0 +1,6 @@
+Book01 DataStructures Weiss technical 3 1800.00
+Book02 Godan Premchand fiction 1 650.00
+Book03 OperatingSystems Silberschatz technical 9 2400.00
+Book04 Aangan KhadijaMastoor fiction 2 800.00
+Book05 CProgramming Kernighan technical 2 1500.00
+Book06 Umrao Ruswa fiction 1 700.00
